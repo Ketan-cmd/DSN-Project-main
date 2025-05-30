@@ -18,6 +18,6 @@
 
 ## :handshake: Contact
 
-Arpit Gupta - - ketanpathade7@gmail.com
+Ketan Pathade - - ketanpathade7@gmail.com
 
 Project Link: https://github.com/Ketan-cmd/DSN-Project-main
