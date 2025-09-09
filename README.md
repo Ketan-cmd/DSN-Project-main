@@ -10,8 +10,8 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
+##- [About the Project](#star2-about-the-project)
+##- [Contact](#handshake-contact)
 
 
 ## :star2: About the Project
